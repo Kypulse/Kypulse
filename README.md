@@ -7,6 +7,10 @@ Welcome to my profile! I'm a high school developer passionate about coding and c
 - 🎥 [YouTube Channel](https://www.youtube.com/@R3PL4Y-dev)
 - 🚀 [Featured Project: Blooket hacks?
 
+![Website](https://img.shields.io/badge/My_Website-Live-blue?style=flat&logo=github)
+![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC1234567890?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/R3PL41Y?style=social)
+
 ## 💻 Skills
 - **Languages:** Python, JavaScript, HTML/CSS, 
 - **Interests:** Game Development, Open Source, Lightning McQueen 🏎️
