@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm R3PL41Y! 👋
 
-<!--
-**R3P41Y/R3P41Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm a high school developer passionate about coding and creating projects.
 
-Here are some ideas to get you started:
+## 🌟 Highlights
+- 🔗 [My Website](https://r3p41y.github.io/R3PL4Y-S-Website/)
+- 🎥 [YouTube Channel](https://www.youtube.com/@R3PL4Y-dev)
+- 🚀 [Featured Project: Blooket hacks?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Languages:** Python, JavaScript, HTML/CSS, 
+- **Interests:** Game Development, Open Source, Lightning McQueen 🏎️
+- **Batch Warrier**
+
+## 📈 GitHub Stats
+![R3PL41Y's GitHub Stats](https://github-readme-stats.vercel.app/api?username=R3PL41Y&show_icons=true&theme=radical)
+
+Thanks for stopping by! 😊
