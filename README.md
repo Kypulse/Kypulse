@@ -16,5 +16,5 @@ Welcome to my profile! I'm a high school developer passionate about coding and c
 ## 📈 GitHub Stats
 ![R3PL41Y's GitHub Stats](https://github-readme-stats.vercel.app/api?username=R3PL41Y&show_icons=true&theme=radical)
 
+[![Lightning McQueen](https://img.shields.io/badge/Lightning-Mcqueen-red)](https://www.example.com)
 Thanks for stopping by! 😊
-(https://img.shields.io/badge/Lightning-Mcqueen-red)
