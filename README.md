@@ -9,9 +9,11 @@ Welcome to my profile! I'm a high school developer passionate about coding and c
 - 🚀 [Featured Project: Blooket Hacks](https://github.com/R3PL41Y/Blooket-Helper)
 
 ## 💻 Skills
-- **Languages:** Python, JavaScript, HTML/CSS, 
-- **Interests:** Game Development, Open Source, Lightning McQueen 🏎️
-- **Batch Warrier**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Batch](https://img.shields.io/badge/Batch-1f1f1f?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Batch_file)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 ## 📈 GitHub Stats
 ![R3PL41Y's GitHub Stats](https://github-readme-stats.vercel.app/api?username=R3PL41Y&show_icons=true&theme=radical)
