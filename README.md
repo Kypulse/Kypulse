@@ -10,7 +10,7 @@ Welcome to my profile! I'm a high school developer passionate about coding and c
 ## 🌟 Highlights
 
 - 🔗 [![Website](https://img.shields.io/badge/My_Website-Live-blue?style=flat&logo=github)](https://r3p41y.github.io/R3PL4Y-S-Website/)
-- 🎥 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC1234567890?style=social)
+- 🎥 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCBmiPNT6MzjZ9wdSrBIiQLw?style=social)](https://www.youtube.com/@R3PL4Y-dev)
 - 🚀 [Featured Project: Blooket Hacks](https://github.com/R3PL41Y/Blooket-Helper)
 
 
