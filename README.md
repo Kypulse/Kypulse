@@ -16,5 +16,5 @@ Welcome to my profile! I'm a high school developer passionate about coding and c
 
 
 
-[![Lightning McQueen](https://img.shields.io/badge/Thanks-for-stopping-by-red)](https://www.example.com)
+[![Thanks for stopping by](https://img.shields.io/badge/Thanks-for-stopping-by-red)]
 Thanks for stopping by! 😊
