@@ -16,4 +16,4 @@ Welcome to my profile! I'm a high school developer passionate about coding and c
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-Thanks for stopping by! 😊
+## Thanks for stopping by! 😊
