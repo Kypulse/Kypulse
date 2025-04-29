@@ -1,6 +1,6 @@
 # Hi there, I'm R3PL41Y! 👋
 
-Welcome to my profile! I'm a high school developer who enjoys coding and creating projects.
+Welcome to my profile! I'm a high school developer who enjoys coding and eating Mango.
 
 ## 🌟 Socials
 
