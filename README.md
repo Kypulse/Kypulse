@@ -5,7 +5,7 @@ Welcome to my profile! I'm a high school developer who enjoys coding and creatin
 ## 🌟 Highlights
 
 - 🔗 [![Website](https://img.shields.io/badge/My_Website-Live-blue?style=flat&logo=github)](https://r3p41y.github.io/R3PL4Y-S-Website/)
-- 🎥 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCBmiPNT6MzjZ9wdSrBIiQLw?style=social)](https://www.youtube.com/@R3PL4Y-dev)
+- 🎥 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCBmiPNT6MzjZ9wdSrBIiQLw?style=social)](https://www.youtube.com/@rekrap2)
 - 🚀 [Featured Project: School Hacks]([https://github.com/R3PL41Y/School-Hacks](https://github.com/R3P41Y/School-hacks))
 
 ## 💻 Skills
