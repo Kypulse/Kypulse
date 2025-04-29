@@ -6,7 +6,7 @@ Welcome to my profile! I'm a high school developer who enjoys coding and creatin
 
 - 🔗 [![Website](https://img.shields.io/badge/My_Website-Live-blue?style=flat&logo=github)](https://r3p41y.github.io/R3PL4Y-S-Website/)
 - 🎥 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCBmiPNT6MzjZ9wdSrBIiQLw?style=social)](https://www.youtube.com/@R3PL4Y-dev)
-- 🚀 [Featured Project: Blooket Hacks](https://github.com/R3PL41Y/Blooket-Helper)
+- 🚀 [Featured Project: School Hacks](https://github.com/R3PL41Y/School-Hacks)
 
 ## 💻 Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
