@@ -4,6 +4,16 @@ Welcome to my profile. I'm a **game exploit developer** .
 
 ---
 
+## 🚀 Featured Project
+
+[![Krypton Cracked](https://img.shields.io/badge/Krypton%20Cracked-View%20on%20GitHub-blueviolet?style=for-the-badge&logo=github)](https://github.com/R3P41Y/KryptonOnCrack/tree/main)
+
+<div align="center">
+  <img src="https://github.com/R3P41Y/KryptonOnCrack/blob/main/src/main/resources/icon.png" width="200" alt="Krypton Icon"/>
+</div>
+
+---
+
 ## 🔗 Socials
 - 💬 [![Discord](https://img.shields.io/badge/Join%20My%20Discord-KyPulse%20Hub-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/g3h87TyGs6)
 
@@ -16,15 +26,7 @@ Welcome to my profile. I'm a **game exploit developer** .
 
 ---
 
-## 🚀 Featured Project
 
-[![Krypton Cracked](https://img.shields.io/badge/Krypton%20Cracked-View%20on%20GitHub-blueviolet?style=for-the-badge&logo=github)](https://github.com/R3P41Y/KryptonOnCrack/tree/main)
-
-<div align="center">
-  <img src="https://github.com/R3P41Y/KryptonOnCrack/blob/main/src/main/resources/icon.png" width="200" alt="Krypton Icon"/>
-</div>
-
----
 
 ## ✌️ Thanks for stopping by!
 
