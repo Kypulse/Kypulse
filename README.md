@@ -6,11 +6,9 @@ Welcome to my profile. I'm a **game exploit developer** .
 
 ## 🚀 Featured Project
 
-[![Krypton Cracked](https://img.shields.io/badge/Krypton%20Cracked-View%20on%20GitHub-blueviolet?style=for-the-badge&logo=github)](https://github.com/R3P41Y/KryptonOnCrack/tree/main)
+[![Soul Addon Meteor](https://img.shields.io/badge/Krypton%20Cracked-View%20on%20GitHub-blueviolet?style=for-the-badge&logo=github)](https://github.com/R3P41Y/KryptonOnCrack/tree/main)
 
-<div align="center">
-  <img src="https://github.com/R3P41Y/KryptonOnCrack/blob/main/src/main/resources/icon.png" width="200" alt="Krypton Icon"/>
-</div>
+<div align="center"> <img src="https://imgur.com/d2850520-4e73-44c1-845c-f6e4332e680c.png" width="200" alt="Soul"/> </div>
 
 ---
 
