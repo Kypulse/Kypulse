@@ -1,6 +1,6 @@
 # 👾 Hi there, I'm KyPulse!
 
-Welcome to my profile. I'm a **game exploit developer** .
+Welcome to my profile. I'm a **game helper developer** .
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my profile. I'm a **game exploit developer** .
 
 ## 🛠️ Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,go)](https://skillicons.dev)
 
 ---
 
