@@ -12,7 +12,7 @@ Welcome to my profile. I'm a **game helper developer** .
 
 ## 🛠️ Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,java,youtube)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,java)](https://skillicons.dev)
 
 ---
 
